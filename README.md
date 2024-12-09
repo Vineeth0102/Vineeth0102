@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br><br>A resume generator website integrating React, Node.js, MongoDB, and Google Gemini.<br>Publishing a research paper on this project.<br><br>🌱 I’m currently learning:<br><br>Advanced AI and NLP techniques for my projects.<br>Exploring MLOps tools and best practices.<br><br>👨‍💻 My recent projects:<br><br>Emotion Detection System using CNN models like VGG16 and ResNet50.<br>eKYC Application using face recognition and OCR for secure logging.<br>Netflix Stock Prediction using historical data and market trend analysis.<br><br>👩‍🎓 My internships and certifications:<br><br>Data Science Intern at Code Lab Systems, working on ML models for healthcare and agriculture.<br>Certified in Wipro TalentNext Java Full Stack.<br><br>Fun Facts:<br><br>🏆 I’ve participated in hackathons like Flipkart Grid 6.0 and an MLOps hackathon.<br>💬 Ask me about: Machine Learning, AI, and building efficient applications.<br>📚 I love reading self-help books and exploring emerging technologies.
+🔭 I’m currently working on: <br><br>
+<ul>
+  <li>
+    A resume generator website integrating React, Node.js, MongoDB, and Google Gemini.<br>
+  </li>
+  <li>
+  Publishing a research paper on this project.
+    </li>
+</ul>
+<br><br>🌱 I’m currently learning:<br><br>Advanced AI and NLP techniques for my projects.<br>Exploring MLOps tools and best practices.<br><br>👨‍💻 My recent projects:<br><br>Emotion Detection System using CNN models like VGG16 and ResNet50.<br>eKYC Application using face recognition and OCR for secure logging.<br>Netflix Stock Prediction using historical data and market trend analysis.<br><br>👩‍🎓 My internships and certifications:<br><br>Data Science Intern at Code Lab Systems, working on ML models for healthcare and agriculture.<br>Certified in Wipro TalentNext Java Full Stack.<br><br>Fun Facts:<br><br>🏆 I’ve participated in hackathons like Flipkart Grid 6.0 and an MLOps hackathon.<br>💬 Ask me about: Machine Learning, AI, and building efficient applications.<br>📚 I love reading self-help books and exploring emerging technologies.
 
 
 ## 🌐 Socials:
