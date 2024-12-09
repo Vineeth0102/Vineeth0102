@@ -17,8 +17,39 @@
     Exploring MLOps tools and best practices.
   </li>
 </ul>
-<br><br>👨‍💻 My recent projects:<br><br>Emotion Detection System using CNN models like VGG16 and ResNet50.<br>eKYC Application using face recognition and OCR for secure logging.<br>Netflix Stock Prediction using historical data and market trend analysis.<br><br>👩‍🎓 My internships and certifications:<br><br>Data Science Intern at Code Lab Systems, working on ML models for healthcare and agriculture.<br>Certified in Wipro TalentNext Java Full Stack.<br><br>Fun Facts:<br><br>🏆 I’ve participated in hackathons like Flipkart Grid 6.0 and an MLOps hackathon.<br>💬 Ask me about: Machine Learning, AI, and building efficient applications.<br>📚 I love reading self-help books and exploring emerging technologies.
-
+👨‍💻 My recent projects:
+<ul>
+  <li>
+   >Emotion Detection System using CNN models like VGG16 and ResNet50.
+  </li>
+  <li>
+   eKYC Application using face recognition and OCR for secure logging.
+  </li>
+  <li>
+   Netflix Stock Prediction using historical data and market trend analysis.
+  </li>
+</ul>
+👩‍🎓 My internships and certifications:
+<ul>
+  <li>
+   Data Science Intern at Code Lab Systems, working on ML models for healthcare and agriculture.
+  </li>
+  <li>
+   Certified in Wipro TalentNext Java Full Stack.
+  </li>
+</ul>
+Fun Facts:
+<ul>
+  <li>
+    🏆 I’ve participated in hackathons like Flipkart Grid 6.0 and an MLOps hackathon.
+  </li>
+  <li>
+   💬 Ask me about: Machine Learning, AI, and building efficient applications.
+  </li>
+   <li>
+   📚 I love reading self-help books and exploring emerging technologies.
+  </li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineeth-shettigar-441263220) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vineethshettigar0102) 
