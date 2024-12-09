@@ -20,7 +20,7 @@
 👨‍💻 My recent projects:
 <ul>
   <li>
-   >Emotion Detection System using CNN models like VGG16 and ResNet50.
+   Emotion Detection System using CNN models like VGG16 and ResNet50.
   </li>
   <li>
    eKYC Application using face recognition and OCR for secure logging.
