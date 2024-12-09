@@ -8,7 +8,7 @@
     Publishing a research paper on this project.
   </li>
 </ul>
-<br><br>🌱 I’m currently learning:
+🌱 I’m currently learning:
 <ul>
   <li>
    Advanced AI and NLP techniques for my projects.
