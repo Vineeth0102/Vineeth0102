@@ -26,7 +26,7 @@
    eKYC Application using face recognition and OCR for secure logging.
   </li>
   <li>
-   Netflix Stock Prediction using historical data and market trend analysis.
+   Real time Netflix Stock Prediction using historical data and market trend analysis.
   </li>
 </ul>
 👩‍🎓 My internships and certifications:
