@@ -1,5 +1,5 @@
  # 💫 About Me :
-🔭 I’m currently working on:
+🔭 I’m currently working on :
 <ul>
   <li>
     A resume generator website integrating React, Node.js, MongoDB, and Google Gemini.
